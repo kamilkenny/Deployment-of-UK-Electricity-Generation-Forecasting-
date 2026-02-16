@@ -8,8 +8,8 @@ This model deploy a UK electricity generation app to understanding generation dy
 
 ## 👤 Modeller Information
 * **Name:** Kamil Kehinde
-* **Role:** Lead Energy Modeller / Data Scientist
-* **Case Study:** Great Britain’s System Operator (NESO) Generation Outputs
+* **Role:**  Energy Modeller
+* **Case Study:** Great Britain’s System Operator (NESO) Generation Outputs Forecasting
 
 ---
 
