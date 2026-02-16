@@ -1,6 +1,7 @@
 # Deployment-of-UK-Electricity-Generation-Forecasting-
 This model deploy a UK electricity generation app to understanding generation dynamics in the future.
 # Web link to deployed model - https://deployment-of-uk-electricity-generation.onrender.com/
+The deployed web-based-app can perform inferencing also Hindcasting of past times steps and forecasting future time steps of generation output.
 # ⚡ UK Electricity Generation Forecaster
 ### A.I. Predictive Modelling for National Grid Decarbonization Strategies
 
