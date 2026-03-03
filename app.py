@@ -110,7 +110,7 @@ try:
         <div class="main-img-container">
             <img src="data:image/png;base64,{img_b64}" class="responsive-img">
             <p style="margin-top: 15px; font-size: 1.1em; font-weight: bold; color: black;">
-                Kamil Kehinde - Lead Modeller
+                Kamil Ridwan - Lead Modeller
             </p>
         </div>
         """,
@@ -225,4 +225,4 @@ if predict_btn:
         st.error("⚠️ Please select a valid start and end date.")
 
 st.divider()
-st.caption("© 2026 Energy Analytics Portfolio | Kamil Kehinde | Data Source: NESO Data Portal")
+st.caption("© 2026 Energy Data Analytics Portfolio Project | Kamil Ridwan | Data Source: NESO Data Portal")
