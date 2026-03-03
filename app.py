@@ -21,7 +21,7 @@ from tensorflow.keras.models import load_model
 
 # 1. Page Configuration
 st.set_page_config(
-    page_title="UK Grid Analytics | Kamil Kehinde",
+    page_title="UK Grid Analytics | Kamil Ridwan",
     page_icon="⚡",
     layout="wide"
 )
@@ -92,7 +92,7 @@ st.markdown("""
 # 2. Sidebar - Branding & Identification
 with st.sidebar:
     st.header("👤 Lead Modeller")
-    st.write("**Kamil Kehinde**")
+    st.write("**Kamil Ridwan**")
     st.divider()
     st.info("💡 **Project Goal:** A.I. Forecasting-Model for Great Britain’s System Operator Generation Mix.")
     st.caption("Developed as part of a high-resolution Energy Case Study.")
