@@ -120,7 +120,7 @@ except Exception:
     st.warning("⚠️ Image 'kamil_profile.png' not found in repository.")
 
 # Main Title & Executive Summary
-st.title("⚡ UK Electricity Generation Forecasting Dashboard")
+st.title("⚡ UK Electricity Generation Forecasting Dashboard using a Developed Artifical Intelligence Model")
 st.markdown("""
 <div class="justified-text">
 The UK electricity supply mix comprising of (Gas, Coal, Nuclear, Wind, Solar, Hydro, Biomass and Import). The system has undergone a significant transformation due to increasing <b>renewable penetration</b>,
@@ -220,7 +220,7 @@ if predict_btn:
         st.markdown(f"#### 📊 Generation Trend: {start_d} to {end_d}")
         st.line_chart(df_pred['Forecast_MW'], color="#004080")
 
-        st.download_button("📥 Download Forecast Analysis Results (CSV)", df_pred.to_csv(), "forecast_results.csv", "text/csv")
+        st.download_button("📥 Download the A.I. Driven Forecast Analysis Results (CSV)", df_pred.to_csv(), "forecast_results.csv", "text/csv")
     else:
         st.error("⚠️ Please select a valid start and end date.")
 
