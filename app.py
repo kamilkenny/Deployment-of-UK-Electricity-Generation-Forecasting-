@@ -120,7 +120,7 @@ except Exception:
     st.warning("⚠️ Image 'kamil_profile.png' not found in repository.")
 
 # Main Title & Executive Summary
-st.title("⚡ UK Electricity Generation Forecasting Dashboard using a Developed Artifical Intelligence Model")
+st.title("⚡ UK Electricity Generation Forecasting Dashboard using a Developed A.I. Model")
 st.markdown("""
 <div class="justified-text">
 The UK electricity supply mix comprising of (Gas, Coal, Nuclear, Wind, Solar, Hydro, Biomass and Import). The system has undergone a significant transformation due to increasing <b>renewable penetration</b>,
